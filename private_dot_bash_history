@@ -1,0 +1,157 @@
+bluetoothctl
+sudo pacman -S bluez-utils
+bluetoothctl
+cd /etc/pulse/
+cat
+ls -ll
+touch default.pa
+sudo touch default.pa
+sudo nvim default.pa
+bluetoothctl
+yay -Syu
+exit
+sudo mkdir -p /backup/data
+sudo chown -R root:adm /backup/
+sudo chmod -R 774 /backup/
+sudo chmod -R g+s /backup
+cd /backup/
+su 
+cd /backup/data
+su chown billy:billy /backup/
+su -
+cd /backup/
+ls
+git commit
+ls -a
+cd data
+git commit
+git config --global user.email "billy.langley@gmail.com"
+git config --global user.name "riftere"
+git commit
+git push -u origin --all
+cd /backup/
+ls
+cd config
+ls
+nvim backup_src.txt 
+git commit
+ls
+cd ..
+git commit
+ls -a
+cd ..
+cd backup/data
+git commit
+/backup/bin/copy_files.sh
+sudo /backup/bin/copy_files.sh
+git add --all
+sudo git add --all
+git commit
+sudo git push -u origin --all
+git remote add origin git@github.com:riftere/config.git
+git push -u origin --all
+yay -Syu
+cd .git
+ls
+cd ..
+yay -Syu
+yay -Syu
+sudo reboot
+ssh billy@kb
+exit
+yay -Syu
+sudo pacman -S krusader
+sudo pacman -Rns krusader
+sudo pacman -S vifm
+vifm
+exit
+vifm
+exit
+yay -Syu
+yay -Syu
+bashtop
+vifm
+sudo pacman -S vim
+vim
+nvim
+cd .vim
+mkdir -p ~/.vim/pack/vendor/start
+$ curl -fLo ~/.vim/autoload/plug.vim --create-dirs   https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+curl -fLo ~/.vim/autoload/plug.vim --create-dirs   https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+touch .vimrc
+vim .vimrc
+vim .vimrc
+vim
+ curl -fLo ~/.local/share/nvim/site/autoload/plug.vim --create-dirs https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+cp ~/.vimrc ~/.config/nvim/init.vim
+cd .config
+cd nvim
+mkdir nvim
+cp ~/.vimrc ~/.config/nvim/init.vim
+nvim
+yay -Syu
+yay - Syu pamac-aur
+yay -Syu pamac-aur
+sudo pacman -Rns pamac-cli
+sudo pacman -S pamac-aur
+yay -S pamac-aur
+yay -Rns pamac
+yay -Rns libpamac
+yay -Rns pamac-all
+yay -Rns pamac
+pamac-cli
+sudo pacman -S pamac
+exit
+yay -Syu
+cd Downloads/
+ls -ll
+7z
+7z e Win10_2004_English_x64.iso sources/install.wim
+ls
+7z e install.wim 1/Windows/{Fonts/"*".{ttf,ttc},System32/Licenses/neutral/"*"/"*"/license.rtf} -ofonts/
+ls
+cd fonts
+ls
+yay -S ttf-ms-win10
+yay -S ttf-ms-win10-auto
+sudo pacman -S ttf-ms-fonts
+yay -S ttf-ms-fonts
+cd ..
+ls
+mv fonts WindowsFonts
+ls
+sudo mv WindowsFonts /usr/share/fonts/
+cd /usr
+/share
+ls
+cd fonts
+ls
+cd share
+ls
+cd fonts
+ls
+cd WindowsFonts/
+ls
+yay -Yc
+yay -Scc
+ncdu
+exit
+yay -Syu
+yay -Syu
+sudo pacman -Syyu
+sudo pacman -Syuu
+sudo reboot
+hotop
+htop
+su
+yay -Syu
+chezmoi init git@github.com:riftere/work.git
+chezmoi add .bashrc
+chezmoi cd
+ls
+git add file
+git add files
+git add *
+git commit -m "initial commit"
+git push
+yay -S github-desktop-bin

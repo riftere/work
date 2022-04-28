@@ -1,0 +1,59 @@
+[SSH Config][backupfreepbx]
+hostname=backupfreepbx
+identifier=backupfreepbx
+importedFromSshConfig=true
+port=
+profileName=Breath
+sshkey=
+useSshConfig=true
+username=
+
+[SSH Config][freepbx]
+hostname=freepbx
+identifier=freepbx
+importedFromSshConfig=true
+port=
+profileName=Breath
+sshkey=
+useSshConfig=true
+username=
+
+[SSH Config][kb]
+hostname=kb
+identifier=kb
+importedFromSshConfig=true
+port=
+profileName=Breath
+sshkey=
+useSshConfig=true
+username=
+
+[SSH Config][rutorrent]
+hostname=rutorrent
+identifier=rutorrent
+importedFromSshConfig=true
+port=
+profileName=
+sshkey=
+useSshConfig=true
+username=
+
+[SSH Config][tchat]
+hostname=tchat
+identifier=tchat
+importedFromSshConfig=true
+port=
+profileName=Breath
+sshkey=
+useSshConfig=true
+username=
+
+[SSH Config][wdmycloud]
+hostname=wdmycloud
+identifier=wdmycloud
+importedFromSshConfig=true
+port=
+profileName=Breath
+sshkey=
+useSshConfig=true
+username=

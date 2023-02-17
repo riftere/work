@@ -1,3 +1,0 @@
-call plug#begin()
-Plug 'plasticboy/vim-markdown'
-call plug#end()
